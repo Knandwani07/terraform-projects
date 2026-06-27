@@ -42,6 +42,7 @@ terraform-aws-s3-bucket/
 ├── terraform.tfvars           # Stores values assigned to input variables
 ├── outputs.tf                 # Displays output values after deployment
 ├── WORKFLOW.md                # Step-by-step implementation guide
+├── CODE_EXPLANATION.md         
 ├── .gitignore                 # Excludes generated and sensitive files
 └── README.md                  # Project overview and documentation
 ```
