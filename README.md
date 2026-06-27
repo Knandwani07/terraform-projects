@@ -12,20 +12,6 @@ As I continue learning and building, new projects will be added to demonstrate d
 
 ---
 
-## 📂 Repository Structure
-
-```text
-terraform-projects/
-│
-├── I. Foundations/
-│
-├── II. Core-Projects/
-│
-└── III. Production-Projects/
-```
-
----
-
 ## 🎯 Repository Goals
 
 * Learn and apply Infrastructure as Code (IaC) principles.
