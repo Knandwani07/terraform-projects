@@ -47,25 +47,6 @@ terraform-projects/
 
 ---
 
-## 📚 Topics Covered
-
-As this repository grows, it will include concepts such as:
-
-* Terraform Basics
-* Providers
-* Resources
-* Variables
-* Outputs
-* State Management
-* Modules
-* Remote Backends
-* Workspaces
-* Provisioners
-* AWS Infrastructure Automation
-* Infrastructure as Code (IaC) Best Practices
-
----
-
 ## 🚀 Standard Terraform Workflow
 
 Each project will typically follow the Terraform workflow:
