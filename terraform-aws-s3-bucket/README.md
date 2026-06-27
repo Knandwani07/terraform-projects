@@ -36,13 +36,13 @@ The project introduces the core concepts of Terraform, including providers, vari
 ```text
 terraform-aws-s3-bucket/
 │
-├── architecture-diagram.md    # Project architecture diagram with architectural components
+├── architecture.md            # Project architecture diagram with architectural components
 ├── main.tf                    # Defines the AWS provider and S3 bucket resource
 ├── variables.tf               # Declares reusable input variables
 ├── terraform.tfvars           # Stores values assigned to input variables
 ├── outputs.tf                 # Displays output values after deployment
 ├── workflow.md                # Step-by-step implementation guide
-├── code_explaination.md        # Detailed explanation of each Terraform configuration file 
+├── code_explaination.md       # Detailed explanation of each Terraform configuration file 
 ├── .gitignore                 # Excludes generated and sensitive files
 └── README.md                  # Project overview and documentation
 ```
@@ -51,7 +51,7 @@ terraform-aws-s3-bucket/
 
 | File | Description |
 |------|-------------|
-| **architecture-diagram.md** | Visual representation of the infrastructure architecture and the interaction between Terraform, AWS Provider, AWS CLI, and Amazon S3. |
+| **architecture.md** | Explains the project architecture, deployment flow, and the interaction between Terraform components and AWS services. |
 | **main.tf** | Defines the Terraform configuration, including the AWS provider and the Amazon S3 bucket resource. |
 | **variables.tf** | Declares reusable input variables, making the configuration flexible and easier to maintain. |
 | **terraform.tfvars** | Stores values assigned to the declared variables without modifying the source code. |
