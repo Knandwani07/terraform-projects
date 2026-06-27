@@ -32,7 +32,6 @@ terraform-aws-s3-bucket/
 ├── outputs.tf
 ├── workflow.md
 ├── code_explaination.md
-├── .gitignore
 └── README.md
 ```
 
