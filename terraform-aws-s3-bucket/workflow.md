@@ -25,7 +25,7 @@ Organize the Terraform project into separate configuration files to improve read
 ```text
 terraform-aws-s3-bucket/
 │
-├── architecture-diagram.md
+├── architecture.md
 ├── main.tf
 ├── variables.tf
 ├── terraform.tfvars
