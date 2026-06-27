@@ -30,7 +30,8 @@ terraform-aws-s3-bucket/
 ├── variables.tf
 ├── terraform.tfvars
 ├── outputs.tf
-├── WORKFLOW.md
+├── workflow.md
+├── code_explaination.md
 ├── .gitignore
 └── README.md
 ```
