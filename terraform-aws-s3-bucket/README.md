@@ -43,7 +43,6 @@ terraform-aws-s3-bucket/
 ├── outputs.tf                 # Displays output values after deployment
 ├── workflow.md                # Step-by-step implementation guide
 ├── code_explaination.md       # Detailed explanation of each Terraform configuration file 
-├── .gitignore                 # Excludes generated and sensitive files
 └── README.md                  # Project overview and documentation
 ```
 
@@ -58,7 +57,6 @@ terraform-aws-s3-bucket/
 | **outputs.tf** | Defines output values displayed after successful infrastructure deployment. |
 | **code_explaination.md** | Provides a detailed explanation of each Terraform configuration file, including main.tf, variables.tf, terraform.tfvars, and outputs.tf, along with how they work together to provision the infrastructure. |
 | **workflow.md** | Documents the complete implementation process, Terraform commands, explanations, and deployment workflow. |
-| **.gitignore** | Prevents Terraform-generated files, state files, and other unnecessary files from being committed to Git. |
 | **README.md** | Provides an overview of the project, prerequisites, technologies, and project documentation. |
 
 ---
