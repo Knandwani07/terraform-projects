@@ -57,11 +57,12 @@ The purpose of this repository is to document my Terraform learning journey whil
 
 ## 🤝 Let's Connect
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/khushi-nandwani/
-* 💻 **GitHub:** https://github.com/Knandwani07
-* ✍️ **Dev Community:** https://dev.to/khushi_nandwani07
-* 📝 **Medium:** https://medium.com/@khushinandwanii
-* 🌐 **Portfolio:** https://main.d1n4wt6uo5bfx6.amplifyapp.com/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/khushi-nandwani/
+- 💻 **GitHub:** https://github.com/Knandwani07
+- 📬 **Substack:** https://substack.com/@khushinandwani07
+- ✍️ **Dev Community:** https://dev.to/khushi_nandwani07
+- 📝 **Medium:** https://medium.com/@khushinandwanii
+- 🌐 **Portfolio:** https://main.d1n4wt6uo5bfx6.amplifyapp.com/
 
 ---
 
