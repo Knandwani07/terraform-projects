@@ -183,11 +183,3 @@ After confirming the execution plan by entering **yes**, Terraform deletes the A
 
 ---
 
-# 📂 Source Code
-
-The complete Terraform configuration files used in this project are available in this repository.
-
-**GitHub Repository:**  
-https://github.com/Knandwani07/terraform-aws-s3-bucket
-
-The repository includes all Terraform configuration files, project documentation, architecture diagram, and supporting resources required to reproduce this project.
